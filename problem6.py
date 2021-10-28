@@ -1,0 +1,6 @@
+full_number = int(input())
+real_number = float(input())
+text = str(input())
+print("String:", text)
+print("Float:", real_number)
+print("Int:", full_number)
